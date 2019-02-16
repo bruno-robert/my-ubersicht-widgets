@@ -6,3 +6,6 @@ All the [Übersitch](http://tracesof.net/uebersicht/) widgets I use. I've custom
 I like to have the weather available, and since I often listen to new music, I like to have the name available in case I really like a tune.
 
 I have tried to keep energy consumtion to a minimum, the biggest energy consumer amongst my widgets is probably the "playbox" widget.
+
+P.S.
+Please note that I only modified existing code. I don't not claim ownership of any of these widgets (except the weather widget)
