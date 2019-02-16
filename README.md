@@ -1,5 +1,5 @@
 # my-ubersicht-widgets
-All the Übersitch widgets I use. I've customised them and fixed those that didn't work.
+All the [Übersitch](http://tracesof.net/uebersicht/) widgets I use. I've customised them and fixed those that didn't work.
 
 ![screenshot](https://github.com/uranium78/my-ubersicht-widgets/raw/master/Screenshot%202019-02-16%20at%2011.52.55.png)
 
